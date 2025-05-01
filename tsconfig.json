@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "compositions/*": ["./apps/compositions/src/*"]
+    }
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
+
