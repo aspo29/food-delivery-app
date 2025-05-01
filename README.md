@@ -53,6 +53,8 @@ export default tseslint.config({
 })
 ```
 =======
+## Demo
+[![Watch the demo](https://img.youtube.com/vi/hZ9IlnHmiTI/0.jpg)](https://youtu.be/hZ9IlnHmiTI)
 # 🍔 Food Delivery App
 
 This is a **Food Ordering Web App** built using **React**, **TypeScript**, and **Firebase**. It allows users to browse food items, add them to cart, and place orders — all within a modern and responsive UI.
